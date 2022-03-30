@@ -1,7 +1,7 @@
 # advance_protech_login
 
 
-<img src="/advance_protech_login/assets/images/ss3.PNG?raw=true" width="222" height="480"> <img src="/advance_protech_login/assets/images/ss2.PNG?raw=true" width="222" height="480">
+<img src="/assets/images/ss3.PNG?raw=true" width="222" height="480"> <img src="/assets/images/ss2.PNG?raw=true" width="222" height="480">
 
 A new Flutter project.
 
